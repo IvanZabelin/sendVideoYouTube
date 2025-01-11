@@ -1,0 +1,12 @@
+[
+    {
+        "channel_name": "ivan",
+        "video_file_path": "vid2.mp4",
+        "title": "Тестовое видео",
+        "description": "Scheduled description for video 1",
+        "tags": "tag1,tag2,tag3",
+        "privacy_status": "private",
+        "publish_time": "2024-12-23T22:00:00",
+        "proxy": "http://a7rnKw:vypf1W@194.32.251.253:8000"
+    }
+]
