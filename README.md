@@ -1,4 +1,5 @@
 # Send Video YouTube
+![](image.png)
 
 ## Send Video YouTube
 ## Действие программы заключается в автоматизации следующих процессов:
