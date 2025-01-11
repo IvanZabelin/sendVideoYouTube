@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# PyInstaller
+/dist/
+/build/
+/*.spec
+
+# Виртуальные окружения
+venv/
+env/
+*.egg-info/
+
+# Логи
+*.log
+
+# Прочее
+*.bak
+*.swp
+
+# Игнорируем видеофайлы и аудиофайлы, если они большие или генерируются динамически
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+*.aac
